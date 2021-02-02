@@ -1,5 +1,5 @@
 {
-  "name": "@ethersphere/swarm-cli",
+  "name": "@vojtechsimetka/swarm-cli",
   "version": "0.1.0",
   "description": "Cli tool for Bee",
   "keywords": [
@@ -10,18 +10,18 @@
     "Decentralised Storage"
   ],
   "bin": {
-    "@ethersphere/swarm-cli": "./dist/index.js",
+    "@vojtechsimetka/swarm-cli": "./dist/index.js",
     "swarm-cli": "./dist/index.js"
   },
-  "homepage": "https://github.com/ethersphere/swarm-cli",
+  "homepage": "https://github.com/vojtechsimetka/swarm-cli",
   "bugs": {
-    "url": "https://github.com/ethersphere/swarm-cli/issues/"
+    "url": "https://github.com/vojtechsimetka/swarm-cli/issues/"
   },
   "license": "BSD-3-Clause",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethersphere/swarm-cli.git"
+    "url": "https://github.com/vojtechsimetka/swarm-cli.git"
   },
   "scripts": {
     "compile": "webpack --progress --mode development",
